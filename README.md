@@ -1,2 +1,4 @@
 # DataScienceNotes
-Notes for a-z on data science
+## Notes for a-z on data science
+
+This the core repositort
